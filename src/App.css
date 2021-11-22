@@ -1,0 +1,14 @@
+.currency-input {
+  max-width: 200px;
+  background: #ceeff9;
+  border-color: #0ccfac;
+  border-radius: 5px;
+  font-size: 22px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.currency-input--error {
+  background: #f55973;
+  border-color: #ff0b0b;
+}
