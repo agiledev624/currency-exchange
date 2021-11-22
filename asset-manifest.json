@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9c673bb.chunk.css",
+    "main.js": "/static/js/main.16df87a3.chunk.js",
+    "main.js.map": "/static/js/main.16df87a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d89a678.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d89a678.js.map",
+    "static/css/2.acf9cc11.chunk.css": "/static/css/2.acf9cc11.chunk.css",
+    "static/js/2.2b878482.chunk.js": "/static/js/2.2b878482.chunk.js",
+    "static/js/2.2b878482.chunk.js.map": "/static/js/2.2b878482.chunk.js.map",
+    "static/js/3.812fab10.chunk.js": "/static/js/3.812fab10.chunk.js",
+    "static/js/3.812fab10.chunk.js.map": "/static/js/3.812fab10.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
+    "static/css/main.c9c673bb.chunk.css.map": "/static/css/main.c9c673bb.chunk.css.map",
+    "static/js/2.2b878482.chunk.js.LICENSE.txt": "/static/js/2.2b878482.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Rubik-Regular.37a4d906.ttf",
+    "static/media/bg.a050a836.svg": "/static/media/bg.a050a836.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d89a678.js",
+    "static/css/2.acf9cc11.chunk.css",
+    "static/js/2.2b878482.chunk.js",
+    "static/css/main.c9c673bb.chunk.css",
+    "static/js/main.16df87a3.chunk.js"
+  ]
+}
