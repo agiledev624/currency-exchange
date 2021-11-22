@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9c673bb.chunk.css",
-    "main.js": "/static/js/main.16df87a3.chunk.js",
-    "main.js.map": "/static/js/main.16df87a3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3d89a678.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3d89a678.js.map",
-    "static/css/2.acf9cc11.chunk.css": "/static/css/2.acf9cc11.chunk.css",
-    "static/js/2.2b878482.chunk.js": "/static/js/2.2b878482.chunk.js",
-    "static/js/2.2b878482.chunk.js.map": "/static/js/2.2b878482.chunk.js.map",
-    "static/js/3.812fab10.chunk.js": "/static/js/3.812fab10.chunk.js",
-    "static/js/3.812fab10.chunk.js.map": "/static/js/3.812fab10.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
-    "static/css/main.c9c673bb.chunk.css.map": "/static/css/main.c9c673bb.chunk.css.map",
-    "static/js/2.2b878482.chunk.js.LICENSE.txt": "/static/js/2.2b878482.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Rubik-Regular.37a4d906.ttf",
-    "static/media/bg.a050a836.svg": "/static/media/bg.a050a836.svg"
+    "main.css": "/currency-exchange/static/css/main.4b2fc25e.chunk.css",
+    "main.js": "/currency-exchange/static/js/main.686eab3b.chunk.js",
+    "main.js.map": "/currency-exchange/static/js/main.686eab3b.chunk.js.map",
+    "runtime-main.js": "/currency-exchange/static/js/runtime-main.a7048732.js",
+    "runtime-main.js.map": "/currency-exchange/static/js/runtime-main.a7048732.js.map",
+    "static/css/2.acf9cc11.chunk.css": "/currency-exchange/static/css/2.acf9cc11.chunk.css",
+    "static/js/2.476a74db.chunk.js": "/currency-exchange/static/js/2.476a74db.chunk.js",
+    "static/js/2.476a74db.chunk.js.map": "/currency-exchange/static/js/2.476a74db.chunk.js.map",
+    "static/js/3.f5e2bdad.chunk.js": "/currency-exchange/static/js/3.f5e2bdad.chunk.js",
+    "static/js/3.f5e2bdad.chunk.js.map": "/currency-exchange/static/js/3.f5e2bdad.chunk.js.map",
+    "index.html": "/currency-exchange/index.html",
+    "static/css/2.acf9cc11.chunk.css.map": "/currency-exchange/static/css/2.acf9cc11.chunk.css.map",
+    "static/css/main.4b2fc25e.chunk.css.map": "/currency-exchange/static/css/main.4b2fc25e.chunk.css.map",
+    "static/js/2.476a74db.chunk.js.LICENSE.txt": "/currency-exchange/static/js/2.476a74db.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/currency-exchange/static/media/Rubik-Regular.37a4d906.ttf",
+    "static/media/bg.a050a836.svg": "/currency-exchange/static/media/bg.a050a836.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d89a678.js",
+    "static/js/runtime-main.a7048732.js",
     "static/css/2.acf9cc11.chunk.css",
-    "static/js/2.2b878482.chunk.js",
-    "static/css/main.c9c673bb.chunk.css",
-    "static/js/main.16df87a3.chunk.js"
+    "static/js/2.476a74db.chunk.js",
+    "static/css/main.4b2fc25e.chunk.css",
+    "static/js/main.686eab3b.chunk.js"
   ]
 }
