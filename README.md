@@ -1,6 +1,10 @@
 # Simple Currency Exchange
 
 Implemented with React/Typescript, MobX
+
+[Live Demo Here](https://agiledev624.github.io/currency-exchange/)
+
+Notes : Because of Subscription Plan can't fetch the data via https, only http
 ## Installation and Running
 
 Run the following commands to clone and run the repository.
